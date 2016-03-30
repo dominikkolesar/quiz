@@ -1,0 +1,9 @@
+c:\users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\bin\Debug\Otazky.exe.config
+c:\Users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\bin\Debug\Otazky.exe
+c:\Users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\bin\Debug\Otazky.pdb
+c:\Users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\obj\Debug\Otazky.csprojResolveAssemblyReference.cache
+c:\Users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\obj\Debug\Otazky.Form1.resources
+c:\Users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\obj\Debug\Otazky.Properties.Resources.resources
+c:\Users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\obj\Debug\Otazky.csproj.GenerateResource.Cache
+c:\Users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\obj\Debug\Otazky.exe
+c:\Users\dominik\documents\visual studio 2015\Projects\Otazky\Otazky\obj\Debug\Otazky.pdb
